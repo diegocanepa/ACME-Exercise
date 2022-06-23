@@ -55,10 +55,12 @@ Finally, I have the **utils** modules where I would store functions that I can u
 #### Test
 The tests are implemented with pytest.
 
-Run test: 
+Run test locally: 
 `pytest ./tests`
 
-### Run Code
+You have to install `pytest` and `pytest-mock`
+
+### Run Code locally
 
 `python main.py`
 
